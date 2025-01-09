@@ -1,4 +1,4 @@
-[![image](/assets/cover-image-hyderabad.png)](https://www.meetup.com/gittogether-hyderabad)
+[![image](/assets/hyderabad-cover.png)](https://www.meetup.com/gittogether-hyderabad)
 
 <br>
 
@@ -21,7 +21,7 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 | Community Leader | Community Volunteer |
 |:---:|:---:|
-| <img src="https://github.com/Yashraj-Nayak.jpeg" width="80" height="80" style="border-radius: 50%;" alt="Swaminathan Vetri"><br>**[Yashraj Nayak](https://github.com/swaminathanvetri)**<br>Program Manager Developer Relations at GitHub | <img src="https://github.com/Tanmaiyee.jpeg" width="80" height="80" style="border-radius: 50%;" alt="Tanmaiyee Vadloori"><br>**[Ritvi Mishra](https://github.com/Tanmaiyee)**<br>Senior DevSecOps Engineer |
+| <img src="https://github.com/Yashraj-Nayak.png" width="80" height="80" style="border-radius: 50%;" alt="Yashraj Nayak"><br>**[Yashraj Nayak](https://github.com/yashrajnayak)**<br>Program Manager Developer Relations at GitHub | <img src="https://github.com/Tanmaiyee.png" width="80" height="80" style="border-radius: 50%;" alt="Tanmaiyee Vadloori"><br>**[Tanmaiyee Vadloori](https://github.com/Tanmaiyee-Vadloori)**<br>Senior DevSecOps Engineer at Progress|
 
 -------------
 
@@ -56,13 +56,11 @@ Join us in shaping the future of software development and connecting with hydera
 - [Event Link](https://www.meetup.com/gittogether-hyderabad/events/303048481/)
 - [Event Resources](./GitTogether%20hyderabad%202024-08-30)
 
-[![August 2024 Event](/assets/2024-08-24.png)](https://www.meetup.com/gittogether-hyderabad/events/303048481/)
 
 ### GitTogether Hyderabad - 19th July 2024
 - [Event Link](https://www.meetup.com/gittogether-hyderabad/events/301848817/)
 - [Event Resources](./GitTogether%20hyderabad%202024-07-19)
 
-[![July 2024 Event](/assets/2024-09-28.png)](https://www.meetup.com/gittogether-hyderabad/events/301848817/)
 
 
 
