@@ -19,9 +19,9 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 <br>
 
-| Community Leader | Community Volunteer |
-|:---:|:---:|
-| <img src="https://github.com/yashraj-nayak.png" width="80" height="80" style="border-radius: 50%;" alt="Yashraj Nayak"><br>**[Yashraj Nayak](https://github.com/yashrajnayak)**<br>Program Manager Developer Relations at GitHub | <img src="https://github.com/tanmaiyee.png" width="80" height="80" style="border-radius: 50%;" alt="Tanmaiyee Vadloori"><br>**[Tanmaiyee Vadloori](https://github.com/Tanmaiyee-Vadloori)**<br>Senior DevSecOps Engineer at Progress|
+## Community Leader
+
+<img src="https://github.com/Tanmaiyee-Vadloori.png" width="80" height="80" style="border-radius: 50%;" alt="Tanmaiyee Vadloori"><br>**[Tanmaiyee Vadloori](https://github.com/Tanmaiyee-Vadloori)**<br>Senior DevSecOps Engineer at Progress
 
 -------------
 
