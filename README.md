@@ -1,4 +1,4 @@
-[![image](/assets/cover-image.png)](https://www.meetup.com/gittogether-hyderabad)
+[![image](/assets/cover-image-hyderabad.png)](https://www.meetup.com/gittogether-hyderabad)
 
 <br>
 
@@ -19,9 +19,9 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 <br>
 
-| Community Leader | Community Volunteer | Community Volunteer |
-|:---:|:---:|:---:|
-| <img src="https://github.com/swaminathanvetri.png" width="80" height="80" style="border-radius: 50%;" alt="Swaminathan Vetri"><br>**[Swaminathan Vetri](https://github.com/swaminathanvetri)**<br>Lead Platform Architect at Maersk | <img src="https://github.com/Frenzyritz13.png" width="80" height="80" style="border-radius: 50%;" alt="Ritvi Mishra"><br>**[Ritvi Mishra](https://github.com/Frenzyritz13)**<br>Education Services Specialist at BigCommerce | <img src="https://github.com/eraditya-sharma.png" width="80" height="80" style="border-radius: 50%;" alt="Aditya Sharma"><br>**[Aditya Sharma](https://github.com/eraditya-sharma)**<br>Data Engineer (IT Analyst) at TCS |
+| Community Leader | Community Volunteer |
+|:---:|:---:|
+| <img src="https://github.com/Yashraj-Nayak.jpeg" width="80" height="80" style="border-radius: 50%;" alt="Swaminathan Vetri"><br>**[Yashraj Nayak](https://github.com/swaminathanvetri)**<br>Program Manager Developer Relations at GitHub | <img src="https://github.com/Tanmaiyee.jpeg" width="80" height="80" style="border-radius: 50%;" alt="Tanmaiyee Vadloori"><br>**[Ritvi Mishra](https://github.com/Tanmaiyee)**<br>Senior DevSecOps Engineer |
 
 -------------
 
@@ -46,7 +46,7 @@ Join us in shaping the future of software development and connecting with hydera
 - [Event Link](https://www.meetup.com/gittogether-hyderabad/events/305381594/)
 - [Event Resources](./GitTogether%20hyderabad%202024-09-28)
 
-[![January 2025 Event](/assets/2024-09-28.png)](https://www.meetup.com/gittogether-hyderabad/events/305381594/)
+[![January 2025 Event](/assets/hyderabad-event-11-01-2025.png)](https://www.meetup.com/gittogether-hyderabad/events/305381594/)
 
 -------------
 
