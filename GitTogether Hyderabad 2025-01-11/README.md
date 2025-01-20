@@ -1,6 +1,7 @@
 ![image](/assets/11-01-2025.jpg)
 
 Find all pictures here: https://www.meetup.com/gittogether-hyderabad/photos/35095656/
+
 **Agenda**
 
 -----------
