@@ -42,15 +42,21 @@ Join us in shaping the future of software development and connecting with hydera
 
 ## Upcoming Events
 
+### GitTogether Hyderabad - 15th February 2025
+- [Event Link](https://www.meetup.com/gittogether-hyderabad/events/305793048)
+- [Event Resources](./GitTogether%20hyderabad%202025-02-15)
+
+[![February 2025 Event](/assets/hyderabad-event-15-02-2025.png)](https://www.meetup.com/gittogether-hyderabad/events/305381594/)
+
+-------------
+
+## Past Events
+
 ### GitTogether Hyderabad - 11th January 2025
 - [Event Link](https://www.meetup.com/gittogether-hyderabad/events/305381594/)
 - [Event Resources](./GitTogether%20hyderabad%202024-09-28)
 
 [![January 2025 Event](/assets/hyderabad-event-11-01-2025.png)](https://www.meetup.com/gittogether-hyderabad/events/305381594/)
-
--------------
-
-## Past Events
 
 ### GitTogether Hyderabad - 30th August 2024
 - [Event Link](https://www.meetup.com/gittogether-hyderabad/events/303048481/)
