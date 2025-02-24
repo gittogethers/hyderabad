@@ -1,4 +1,4 @@
-![image](/assets/15-02-2025.jpg)
+![image](/assets/GitTogether-08-03-2025.png)
 
 Find all pictures here: https://www.meetup.com/gittogether-hyderabad/events/305793048/
 
@@ -6,19 +6,21 @@ Find all pictures here: https://www.meetup.com/gittogether-hyderabad/events/3057
 
 -----------
 
+
 - 9:30 AM to 10:00 AM: Registration and Networking
 - 10:00 AM to 10:10 AM: git init (Welcome Note)
-- 10:10 AM to 10:30 AM: Building AI-Powered Web Apps with Flask and GitHub Tools by [Venkat J](https://github.com/venkatj), Team Lead & Senior Technical Analyst at Quadrant
-- 11:00 AM to 11:20 AM: Break and Networking
-- 10:30 AM to 11:00 AM: Building Multi-Agent AI:  How AI Gateways and Dynamic Routing Work with LLMs by [Megha Arora](https://github.com/maggi1129), CEO & Founder of DevRelSquad
-- 11:20 AM to 11:30 AM: Community Spotlight
-- 11:35 AM to 12:05 PM: Beyond Thresholds: Advanced Anomaly Detection with Machine Learning [Tanmaiyee Vadloori](https://github.com/TheTechmaharaj) Sr. DevSecOps at Progress
-- 12:05 AM to 12:30 PM: git merge (Closing Note and Networking)
-  
+- 10:10 AM to 10:30 AM: Code with Confidence: Unlocking the Power of GitHub Copilot in Your Projects by [UmaRani Tejomurtula](https://www.linkedin.com/in/umarani-tejomurtula/), Azure DevOps & GitHub Consultant, .NET Coder at Microsoft
+- 10:30 AM to 10:45 AM: GitHub copilot session(drafting)
+- 10:45 AM to 11:10 AM: Break and Networking
+- 11:10 AM to 12:20 AM: Drafting
+- 12:20 AM to 12:45 PM: Community Spotlight (Submit Project Here)
+- 12:45 PM to 1:00 PM: git merge (Closing Note)
+
+
 -----------
 
 Date: Saturday 15th February 2025
 
 Time: 9:30 AM to 1:00 PM IST
 
-Venue: [Microsoft Building 1, Hyderanad ISB Rd, Gachibowli, Hyderabad](https://maps.app.goo.gl/gvTyXpbo6wqzfNc57), Telangana 500032 (Entry is only from gate number 4)
+Venue: [Microsoft Building 3, Hyderanad ISB Rd, Gachibowli, Hyderabad](https://maps.app.goo.gl/gvTyXpbo6wqzfNc57), Telangana 500032 (Entry is only from gate number 4)
