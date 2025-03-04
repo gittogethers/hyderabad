@@ -1,6 +1,6 @@
 ![image](/assets/GitTogether-08-03-2025.png)
 
-Find all pictures here: https://www.meetup.com/gittogether-hyderabad/events/305793048/
+Find all pictures here: https://www.meetup.com/gittogether-hyderabad/photos/35163911/
 
 **Agenda**
 
