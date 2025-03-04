@@ -8,6 +8,8 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 ## Upcoming Events
 
+- [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/306351329/) on 8th March 2025
+
 [![Meetup Button](/assets/meetup-button.png)](https://www.meetup.com/gittogether-hyderabad)
 
 - **Get notified of upcoming GitTogethers**: If you haven't already, [join GitTogether Hyderabad group](https://www.meetup.com/gittogether-hyderabad) on Meetup.
