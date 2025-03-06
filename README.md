@@ -19,7 +19,7 @@ Join us to engage in discussions, workshops, and networking opportunities with l
 
 ## GitTogether Hyderabad Team
 
-<img src="https://github.com/Tanmaiyee-Vadloori.png" width="80" height="80" style="border-radius: 50%;" alt="Tanmaiyee Vadloori"><br>**[Tanmaiyee Vadloori](https://github.com/Tanmaiyee-Vadloori)**<br>Senior DevSecOps Engineer at Progress
+<img src="https://github.com/Tanmaiyee-Vadloori.png" width="80" height="80" style="border-radius: 50%;" alt="Tanmaiyee Vadloori"><br>**[Tanmaiyee Vadloori](https://github.com/Tanmaiyee-Vadloori)**<br>Principal DevSecOps Engineer at Progress
 
 - For any queries about past or upcoming events, please contact community leaders or volunteers.
 - For all other inquiries, please drop us an email at meetups@github.com
